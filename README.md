@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adwaith</h1>
-<h3 align="center">A passionate data engineer from Canada</h3>
+<h3 align="center">A passionate Data Analyst from Canada</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=radicalwraith&label=Profile%20views&color=0e75b6&style=flat" alt="radicalwraith" /> </p>
 
@@ -11,8 +11,8 @@
 
 - 🤝 I’m looking for help with **Apache Airflow.**
 
-- 👨‍💻 All of my projects are available at [https://radicalwraith.github.io/adwaith.github.io/](https://radicalwraith.github.io/adwaith.github.io/)
-
+- 👨‍💻 All of my projects are available at [[Portfolio](https://www.datascienceportfol.io/adwaithraj74)]
+  
 - 💬 Ask me about **Splunk, Python, & SQL.**
 
 - 📫 How to reach me **adwaith.raj.74@gmail.com**
