@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="Welcome Banner" width="100%" />
+</p>
+
 <div align="center">
 
 # 💫 About Me:
