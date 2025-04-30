@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/dxztOiW" alt="Banner GIF" width="100%" />
+  <img src="https://i.imgur.com/dxztOiW.gif" alt="Intro GIF" />
 </p>
 
 <div align="center">
