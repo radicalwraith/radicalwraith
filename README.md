@@ -26,13 +26,13 @@ While analytics is my core focus, I'm actively working on **data engineering and
 
 📁 **Featured Projects**
 
-- 💼 **[Job Market Analytics Dashboard](https://github.com/radicalwraith/job-market-dashboard)** — Real-time job insights using Python, APIs, and Streamlit  
+- 💼 **[Job Market Analytics Dashboard](https://github.com/radicalwraith/Job_Analytics)** — Real-time job insights using Python, APIs, and Streamlit  
 - 🛒 **SaaS Sales Data Warehouse** — Analytics engineering project using dbt + BigQuery  
 - 🎮 **Video Game Sales Analysis (Tableau)** — Market insights across genres and platforms  
 - 📡 **IoT Streaming with Azure** — Real-time telemetry pipeline with Power BI  
 - 🦠 **COVID-19 Impact Dashboard** — Global case/death trends visualized in Tableau
 
-👉 All projects: [https://radicalwraith.github.io/adwaith.github.io/](https://radicalwraith.github.io/adwaith.github.io/)
+👉 All projects: [My Portfolio](https://www.datascienceportfol.io/adwaithraj74)
 
 ---
 
