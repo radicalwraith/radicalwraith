@@ -51,9 +51,20 @@ Python, SQL, Power BI, Tableau, Excel, Pandas, Streamlit, dbt, BigQuery, Spark, 
 
 ---
 
-📊 **GitHub Stats**
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=radicalwraith&show_icons=true&locale=en&layout=compact" alt="radicalwraith" /></p>
+<h2 align="center">📊 **GitHub Stats**</h2>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=radicalwraith&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=radicalwraith&theme=gotham&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radicalwraith&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+---
+[![](https://visitcount.itsvg.in/api?id=radicalwraith&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ⚡ **Fun Fact:** I’m ambidextrous – I write with both hands when I’m not writing SQL 😄
